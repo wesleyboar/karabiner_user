@@ -1,5 +1,5 @@
 {
-    "description": "(WES) MIRRORBOARD (LEFT-HAND ONLY): A one-handed layout keyboard layout. Hold spacebar to mirror the keyboard layout so that right side of the keyboard can be intuitively typed by left hand on its own. Toggle the whole rule on/off with control+option+command+q (starts off after reload).",
+    "description": "(WES) MIRRORBOARD (LEFT-HAND ONLY): A one-handed layout keyboard layout. Hold spacebar to mirror the keyboard layout so that right side of the keyboard can be intuitively typed by left hand on its own. Toggle the whole rule on/off with control+option+command+space (starts off after reload).",
     "manipulators": [
         {
             "conditions": [
@@ -10,7 +10,7 @@
                 }
             ],
             "from": {
-                "key_code": "q",
+                "key_code": "spacebar",
                 "modifiers": { "mandatory": ["control", "option", "command"] }
             },
             "to": [
@@ -32,7 +32,7 @@
                 }
             ],
             "from": {
-                "key_code": "q",
+                "key_code": "spacebar",
                 "modifiers": { "mandatory": ["control", "option", "command"] }
             },
             "to": [
