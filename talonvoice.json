@@ -1,5 +1,5 @@
 {
-    "description": "(WES) TALONVOICE: Toggle Talon Voice Mic",
+    "description": "(WES) TALONVOICE: Toggle dictation handoff (sleep+SuperWhisper)",
     "manipulators": [
         {
             "type": "basic",
