@@ -1,5 +1,5 @@
 {
-    "description": "(WES) TALONVOICE: Toggle dictation handoff (sleep+SuperWhisper)",
+    "description": "(WES) VOICE: Toggle Talon/Superwhisper to handoff voice communication between the two",
     "manipulators": [
         {
             "type": "basic",
