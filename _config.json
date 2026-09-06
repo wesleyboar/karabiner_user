@@ -1786,47 +1786,6 @@
                                 "type": "basic"
                             }
                         ]
-                    },
-                    {
-                        "description": "(WES) VOICE: Toggle Talon/Superwhisper to handoff voice communication between the two",
-                        "manipulators": [
-                            {
-                                "type": "basic",
-                                "from": {
-                                    "key_code": "left_shift",
-                                    "modifiers": { "mandatory": ["control"], "optional": ["any"] }
-                                },
-                                "to": [{ "key_code": "left_shift" }],
-                                "to_if_alone": [{ "key_code": "f13" }]
-                            },
-                            {
-                                "type": "basic",
-                                "from": {
-                                    "key_code": "right_shift",
-                                    "modifiers": { "mandatory": ["control"], "optional": ["any"] }
-                                },
-                                "to": [{ "key_code": "right_shift" }],
-                                "to_if_alone": [{ "key_code": "f13" }]
-                            },
-                            {
-                                "type": "basic",
-                                "from": {
-                                    "key_code": "left_control",
-                                    "modifiers": { "mandatory": ["shift"], "optional": ["any"] }
-                                },
-                                "to": [{ "key_code": "left_control" }],
-                                "to_if_alone": [{ "key_code": "f13" }]
-                            },
-                            {
-                                "type": "basic",
-                                "from": {
-                                    "key_code": "right_control",
-                                    "modifiers": { "mandatory": ["shift"], "optional": ["any"] }
-                                },
-                                "to": [{ "key_code": "right_control" }],
-                                "to_if_alone": [{ "key_code": "f13" }]
-                            }
-                        ]
                     }
                 ]
             },
