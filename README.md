@@ -1,5 +1,8 @@
 # Karabiner-Elements config
 
+> [!IMPORTANT]
+> This repo is archived in favor of [talon_user](https://github.com/wesleyboar/talon_user) and [kanata_user](https://github.com/wesleyboar/kanata_user).
+
 ## `_config.json` is the source of truth
 
 `_config.json` is the version-controlled copy of the Karabiner-Elements
