@@ -1,4 +1,4 @@
-# Karabiner-Elements configuration
+# Karabiner-Elements Configuration
 
 > [!IMPORTANT]
 > This repo is archived in favor of [talon_user](https://github.com/wesleyboar/talon_user) and [kanata_user](https://github.com/wesleyboar/kanata_user).
